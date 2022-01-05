@@ -5,7 +5,7 @@ h1{
     font-size: 50px;
 }
 span{
-color: rgb(33, 180, 33);
+color: rgb(108, 218, 108);
 }
 .section-type{
    display: flex;
@@ -14,7 +14,15 @@ color: rgb(33, 180, 33);
 }
 .half-width{
     width: 50%;
+    margin: 40px;
 }
 .half-width img{
     width: 65%;
 }
+a{
+    text-decoration: none;
+    color: white;
+background-image: linear-gradient(blue,orange);
+    padding: 10px 40px;
+}
+
