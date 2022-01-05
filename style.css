@@ -1,3 +1,9 @@
 body{
     font-family: 'Roboto Mono', monospace;
 }
+h1{
+    font-size: 50px;
+}
+span{
+    color: HEX: #34568B;
+}
