@@ -30,3 +30,32 @@ background-color: coral;
     text-align: center;
     margin-top: 70px;
 }
+.parent-div{
+    display:flex;
+    justify-content: space-around;
+}
+.section-div1{
+width: 250px;
+background-color:#9ee4e4 ;
+border: 1px solid gray;
+box-shadow: 4px 4px 10px gray;
+border-radius: 8px;
+
+}
+.div-img img{
+    width: 100%;
+}
+.section-div2{
+    width: 250px;
+    background-color: RGB(247, 202, 201);
+    border: 1px solid gray;
+    box-shadow: 4px 4px 10px gray;
+    border-radius: 8px;
+}
+.section-div3{
+    width: 250px;
+    background-color: RGB(136, 176, 75);
+    border: 1px solid gray;
+    box-shadow: 4px 4px 10px gray;
+    border-radius: 8px;
+    
