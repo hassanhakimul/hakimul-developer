@@ -5,5 +5,16 @@ h1{
     font-size: 50px;
 }
 span{
-    color: HEX: #34568B;
+color: rgb(33, 180, 33);
+}
+.section-type{
+   display: flex;
+   float: left;
+   margin-bottom: 100PX;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 65%;
 }
