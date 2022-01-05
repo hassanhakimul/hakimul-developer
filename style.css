@@ -22,7 +22,10 @@ color: rgb(108, 218, 108);
 a{
     text-decoration: none;
     color: white;
-background-image: linear-gradient(blue,orange);
+background-image: linear-gradient(rgb(123, 123, 218),rgb(235, 227, 212));
     padding: 10px 40px;
+}
+a:hover{
+    background-color: red;
 }
 
